@@ -35,8 +35,8 @@ main {
 }
 .site-header.active,
 .site-header.open {
-    background-color: #00359f;
-    border-bottom: 1px inset #0458ff;
+    background-color: #9f005f;
+    border-bottom: 1px inset #ff048e;
     box-shadow: -2px 1px 9px 2px #000;
 }
 .site-header.docs {
